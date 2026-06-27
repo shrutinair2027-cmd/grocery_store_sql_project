@@ -25,6 +25,7 @@ This project analyzes a grocery store database to derive business insights relat
 ## 🛠️ Tools Used
 
 * SQL (MySQL)
+* MySQL Workbench  |  Concepts: Joins, Aggregations, CTEs, Window Functions, Subqueries
 
 ## 📈 Key Insights
 
